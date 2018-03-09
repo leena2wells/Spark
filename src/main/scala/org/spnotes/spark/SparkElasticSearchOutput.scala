@@ -5,9 +5,7 @@ import org.elasticsearch.spark._
 
 import scala.util.parsing.json.JSON
 
-/**
-  * Created by sunilpatil on 11/22/16.
-  */
+
 object SparkElasticSearchOutput {
 
   def main(argv: Array[String]): Unit = {
